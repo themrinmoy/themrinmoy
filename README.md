@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mrinmoy.
-- 👀 I’m interested in nothing.
-- 🌱 I’m currently learning everything.
-- 💞️ I’m looking to collaborate on nothing.
+- 👀 I’m interested in .
+- 🌱 I’m currently learning .
+- 💞️ I’m looking to collaborate on .
 - 📫 How to reach me, drop a mail(themrinmoy.c@gmail.com).
 
 <!---
