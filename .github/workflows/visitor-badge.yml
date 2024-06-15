@@ -36,4 +36,3 @@ jobs:
             sed -i "/<!-- visitor-badge -->/c\![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=themrinmoy.themrinmoy&count=${count}) <!-- visitor-badge -->" README.md
           else
             echo "![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=themrinmoy.themrinmoy&count=${count}) <!-- visitor-badge -->" >> README.md
-          fi
